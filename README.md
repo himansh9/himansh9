@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himansh9
+- 👋 Hi, I’m Himansh Mahajan
 - 👀 I’m interested in Data Structres and Algorithms, Data Science, Machine Learning.
 - 🌱 I’m currently learning C++  and Python 
 - 💞️ I’m looking to collaborate on projects related to DSA , Data Science.
