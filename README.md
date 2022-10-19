@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himansh Mahajan
-- 👀 I’m interested in Data Structres and Algorithms, Data Science, Machine Learning.
-- 🌱 I’m currently learning C++  and Python 
-- 💞️ I’m looking to collaborate on projects related to DSA , Data Science.
+- 👀 I’m interested in Data Structres and Algorithms, Web Development.
+- 🌱 I’m currently learning C++  and Front End Development
+- 💞️ I’m looking to collaborate on projects related to DSA and Front End.
 - 📫 Reach me through himansh.mahajan0409@gmail.com
 
 <!---
